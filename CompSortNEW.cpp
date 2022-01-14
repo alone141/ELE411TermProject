@@ -28,7 +28,7 @@ void combSort(int *arr, int length);
 
 void SORT_ALL(int array[], int length); //Performs all sorting algorithms listed above and displays the time taken by each algorithm
 
-int length_short = 100,length_long = 1000;
+int length_short = 1000,length_long = 10000;
 
 int main()
 {
