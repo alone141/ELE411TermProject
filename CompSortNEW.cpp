@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include "math.h"
-#include <chrono>
+#include <chrono> //For measuring the time elapsed in microseconds
 using namespace std::chrono;
 
 // Utility Function Prototypes
